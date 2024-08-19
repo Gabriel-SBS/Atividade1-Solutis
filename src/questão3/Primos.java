@@ -1,5 +1,10 @@
 package questão3;
+
 import java.util.Scanner;
+
+/*Crie uma classe e na função main() implemente um programa que lê um
+número inteiro do teclado e imprime todos os números primos menores que ele
+(divisíveis por 1 ou por ele mesmo).*/
 
 public class Primos {
 	public static void main(String[] args) {

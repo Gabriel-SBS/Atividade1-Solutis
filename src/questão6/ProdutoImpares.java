@@ -1,5 +1,9 @@
 package questão6;
 
+
+/*Imprima produto dos números de ímpares de 15 a 30, usando os tipos de
+dados int e float.*/
+
 public class ProdutoImpares {
 	public static void main(String[] args) {
 	int produtoInt = 1;

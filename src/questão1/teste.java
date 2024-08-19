@@ -1,5 +1,7 @@
 package questão1;
 
+// Qual a saída do seguinte programa:
+
 public class teste {
 	public static void main( String args[] ){
 	int i = 5;

@@ -2,6 +2,9 @@ package questão10;
 
 import java.util.Scanner;
 
+/* Escreva uma classe que conte a quantidade de vogais, espaços em brancos 
+e consoantes de uma cadeia de caracteres. */
+
 public class ContarCaracteres {
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);

@@ -2,6 +2,10 @@ package questão5;
 
 import java.util.Scanner;
 
+/*Faça um programa que solicite ao usuário um número de 1 a 7, e imprima na
+tela o dia da semana correspondente. Suponha que Segunda corresponde a 1 ,
+Terça corresponde a 2, e assim por diante. Utilizando Array.*/
+
 public class DiaDaSemana {
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);

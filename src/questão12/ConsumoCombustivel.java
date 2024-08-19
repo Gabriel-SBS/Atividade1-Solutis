@@ -2,6 +2,8 @@ package questão12;
 
 import java.util.Scanner;
 
+//Faça um programa que receba 2 valores e retorne o maior entre eles.
+
 public class ConsumoCombustivel {
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);

@@ -2,6 +2,11 @@ package questão11;
 
 import java.util.Scanner;
 
+/* Escreva um programa que tenha duas palavras como entrada, e a saída
+imprima as palavras em ordem alfabética (utilize o método compareTo da
+classe String),. Informe também, qual das palavras tem o maior número de
+caracteres. */
+
 public class Ordenador {
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
